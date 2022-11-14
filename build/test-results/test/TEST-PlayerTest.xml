@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlayerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-11-14T18:18:29" hostname="HOME-PC" time="0.024">
+  <properties/>
+  <testcase name="testConcat_validArgument_success()" classname="PlayerTest" time="0.019"/>
+  <testcase name="testConcat_validType_success()" classname="PlayerTest" time="0.002"/>
+  <testcase name="testConcat_nullArgument_throwsException()" classname="PlayerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
